@@ -1,7 +1,7 @@
 import React from "react";
 
 const Hedear = () => {
-    const nama = "Kharisma Amalia";
+    const nama = "Aliya Rohaya Siregar";
     return <header>{nama}</header>
 };
 
